@@ -6,8 +6,8 @@ Created on Wed May 27 12:08:31 2020
 """
 from random import randint
 from collections import OrderedDict
-from functions_3D_v1 import p2o
-from functions_2D_v6 import p2q
+from functions_3D import p2o
+from functions_2D import p2q
 import json
 
 N = 100

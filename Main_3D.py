@@ -9,12 +9,12 @@ En esta versión intentamos optimizar el algoritmo:
 
 """
 
-from functions_3D_v3 import Tree_Renewer
-#from functions_3D_v3 import p2o # Si P no es leido de un fichero descomentar
-from functions_3D_v3 import new_velocity_and_position
-from functions_3D_v3 import IvsSize
-from functions_3D_v3 import BH
-from functions_3D_v3 import P_builder
+from functions_3D import Tree_Renewer
+#from functions_3D import p2o # Si P no es leido de un fichero descomentar
+from functions_3D import new_velocity_and_position
+from functions_3D import IvsSize
+from functions_3D import BH
+from functions_3D import P_builder
 
 from save_P1 import P
 from save_P1 import A

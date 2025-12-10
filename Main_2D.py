@@ -6,12 +6,12 @@ Created on Tue May  5 17:34:47 2020
 
 """
 
-from functions_2D_v6 import Tree_Renewer
+from functions_2D import Tree_Renewer
 #from functions_2D_v6 import p2q # Si P no es leido de un fichero descomentar
-from functions_2D_v6 import new_velocity_and_position
-from functions_2D_v6 import IvsSize
-from functions_2D_v6 import BH
-from functions_2D_v6 import P_builder
+from functions_2D import new_velocity_and_position
+from functions_2D import IvsSize
+from functions_2D import BH
+from functions_2D import P_builder
 
 from save_P3 import P
 from save_P3 import A
